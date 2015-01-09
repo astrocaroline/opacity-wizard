@@ -9,8 +9,8 @@ and IPython 2. Instructions for installing IPython 2 can be found [here](http://
 
 A preview of the notebook (without the interactive widgets!) can be seen [here](http://nbviewer.ipython.org/github/astrocaroline/opacity-wizard/blob/master/Opacity%20Wizard.ipynb). 
 
-After installing IPython 2 and cloning this repository, run the notebook by opening a terminal 
-window, changing to the cloned directory, and typing
+After installing IPython 2 and cloning this repository(_from a terminal, type "git clone https://www.github.com/astrocaroline/opacity-wizard"_), run the notebook from a terminal 
+window in the cloned directory by typing
 
 _ipython notebook_
 
