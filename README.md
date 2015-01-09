@@ -1,4 +1,4 @@
-# opacity-wizard
+# Opacity Wizard
 
 This tool was developed to allow for easy and fast visualizations of opacity and abundance data 
 for exoplanet and brown dwarf atmospheres. In particular it was designed to be used by observers
