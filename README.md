@@ -9,7 +9,8 @@ and IPython 2. Instructions for installing IPython 2 can be found [here](http://
 
 A preview of the notebook (sans widgets!) can be seen [here](http://nbviewer.ipython.org/github/astrocaroline/opacity-wizard/blob/master/Opacity%20Wizard.ipynb). 
 
-After installing IPython 2 and cloning this repository, run the notebook by typing
+After installing IPython 2 and cloning this repository, run the notebook by opening a terminal 
+window, changing to the cloned directory, and typing
 
 _ipython notebook_
 
@@ -20,6 +21,5 @@ execute the three cells containing code.
 Instructions for acknowledgments/citations are found at the bottom of the notebook. 
 
 Enjoy! 
-
 Caroline
 
