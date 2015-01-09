@@ -7,7 +7,7 @@ for a given planet and predict where the absorption features of those molecules 
 simple to use for non-python experts and requires only a python installation, numpy and matplotlib, 
 and IPython 2. Instructions for installing IPython 2 can be found [here](http://ipython.org/ipython-doc/2/install/install.html). 
 
-A preview of the notebook (sans widgets!) can be seen [here](http://nbviewer.ipython.org/github/astrocaroline/opacity-wizard/blob/master/Opacity%20Wizard.ipynb). 
+A preview of the notebook (without the interactive widgets!) can be seen [here](http://nbviewer.ipython.org/github/astrocaroline/opacity-wizard/blob/master/Opacity%20Wizard.ipynb). 
 
 After installing IPython 2 and cloning this repository, run the notebook by opening a terminal 
 window, changing to the cloned directory, and typing
