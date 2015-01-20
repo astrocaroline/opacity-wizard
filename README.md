@@ -19,6 +19,7 @@ run and follow the instructions in the notebook. Just like Mathematica, you type
 execute the three cells containing code. 
 
 Instructions for acknowledgments/citations are found at the bottom of the notebook. 
+[![DOI](https://zenodo.org/badge/9221/astrocaroline/opacity-wizard.svg)](http://dx.doi.org/10.5281/zenodo.14098)
 
 Enjoy! 
 Caroline
